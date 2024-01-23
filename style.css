@@ -1,0 +1,142 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#mm{
+    background-color: #780016;
+}
+
+
+nav{
+    border-radius: 1.5rem;
+}
+#c1{
+    width: 25rem;  
+    height: 40rem;
+    border-radius: 1rem;
+    background-color: #e9c0e9 !important;
+}
+#c2{
+    width: 25rem;  
+    height: 40rem;
+    border-radius: 1rem;
+    background-color: #d2dc1d !important;
+}
+#c3{
+    width: 25rem;
+    height: 40rem;  
+    border-radius: 1rem;
+    background-color: #780016 !important;
+}
+#become{
+    background-color: #502274;
+
+}
+#style-card {
+    background-color: white;
+    border-radius: 1rem;
+}
+.my-card{
+    background-color: white;
+    border-radius: 1rem;
+}
+#brands{
+    background-color:#e9c0e9 ;
+}
+#service{
+    background-color: #f3f3f1;
+}
+#team{
+    background-color: #f3f3f1;
+}
+#video{
+    background-color: #254f1a;
+}
+#client{
+    background-color: #f3f3f1;
+}
+#mm5{
+    background-color: #502274;
+}
+#ccc5{
+    padding: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f3f3f1;
+    height: 20rem;
+    width: 85rem;
+    border-radius: 4rem;
+   
+}
+
+.card5-body  h1{
+    font-size: 10rem !important; 
+    color: #502274;
+    font-weight: 800;
+}
+#office{
+    background-color: #f3f3f1;
+}
+.img-fluid{
+    border-radius: 1rem;
+}
+.card-img1{
+    border-radius: 2rem;
+}
+.card-img2{
+    border-radius: 2rem;
+}
+.card-img3{
+    border-radius: 2rem;
+ }   
+.img-fluid4{
+    border-radius: 1rem;
+}
+.img-fluid5{
+    border-radius: 1rem;
+}
+.img-fluid6{
+    border-radius: 1rem;
+}
+
+#bt1{
+    background-color: #e9c0e9;
+    border-radius: 1rem;
+    
+}
+#bt2{
+   background-color: #d2dc1d ;
+   border-radius: 1rem;
+}
+#bt3{
+    background-color: #502274;
+    border-radius: 1rem;
+    color: white;
+}
+#bt4{
+    background-color: #502274;
+    border-radius: 1rem;
+    color: white;
+}
+#bt5{
+    background-color:#e9c0e9;
+    border-radius: 1rem;
+    
+}
+#bt6{
+    background-color: #e9c0e9;
+    border-radius: 1rem;
+    
+}#bt7{
+    background-color: #e9c0e9;
+    border-radius: 1rem;
+    
+}
+.b{
+    border-radius: 0.8rem;
+}
+.b2{
+    border-radius: 0.8rem;
+}
